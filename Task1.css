@@ -1,0 +1,161 @@
+nav{
+    text-align: right;
+   margin-left: 10px;
+    font-size: larger;
+    padding: 10px;
+}
+
+
+header{
+
+    background-color:#000000;
+}
+a:hover{
+    cursor: pointer;
+    color:blue;
+    transform: scale(1.05);
+    
+    
+}
+
+a{
+    
+    color:yellow;
+    margin-right: 15px;
+
+}
+
+.main{
+    text-align: center;
+   background-image: url(wtaxi.jpg);
+   background-repeat: no-repeat;
+   width: 1500px;
+   height: 900px;
+  
+
+    
+
+}
+
+.one{
+    background-color: #000000;
+    color:yellow;
+    width: 500px;
+    height:450px;
+    text-align: center;
+    border: 3px solid;
+    border-color:black;
+    border-radius: 5px;
+    float: inline-start;
+    margin-left: 20px;
+   margin-top: 50px;
+}
+
+.one,h1{
+    font-size:xx-large;
+}
+
+
+
+
+.about.image{
+    
+    align-items: center;
+    margin-right: 30px;
+}
+
+.safe{
+     position: relative;
+}
+
+.gallery {
+    margin: 20px;
+   margin-left: 50px;
+    border: 1px solid #ccc;
+    float: left;
+    width: 400px;
+    border: 2px dotted black;
+  }
+  
+  .gallery:hover {
+    border: 1px solid #777;
+    cursor: pointer;
+    transform: scale(1.05);
+  }
+  
+ .gallery img {
+    width: 100%;
+    height: 200px;
+  }
+  
+  .desc {
+    padding: 15px;
+    text-align: center;
+  }
+
+.booking{
+    background-image: url(taxicar.jpg);
+    background-repeat: no-repeat;
+    background-image: cover;
+    font-size: xx-large;
+    box-shadow: 2px;
+    text-align: center;
+    padding: 4rem;
+    
+    
+
+}
+
+
+.pics{
+    background-color:lightblue;
+    height: 530px;
+}
+.bookingform{
+    color:yellowgreen;
+   font-size: x-large;
+    align-items: center;
+    padding: 15px;
+    margin-left: 420px;
+}
+
+
+table {
+    background-color: black;
+    width: 500px;
+    height: 600px;
+    border-collapse: collapse;
+    
+    padding: 10px;
+    border-radius: 15px;
+  }
+  
+  button{
+    background-color: yellow;
+    padding:20px;
+    border-radius: 10px;
+    font-size: large;
+    text-align: center;
+    margin-top: 15px;
+
+  }
+
+  button:hover{
+    background-color: #000000;
+    color: yellow;
+    cursor: pointer;
+    transform: scale(1.05);
+  }
+
+  input{
+    padding: 10px;
+    size: 50px;
+  }
+
+table:hover {
+    
+    cursor: pointer;
+    transform: scale(1.05);
+  }
+
+  
